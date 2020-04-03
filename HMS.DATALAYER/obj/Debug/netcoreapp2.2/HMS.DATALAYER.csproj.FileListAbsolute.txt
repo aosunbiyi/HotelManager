@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\bin\Debug\netcoreapp2.2\HMS.DATALAYER.deps.json
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\bin\Debug\netcoreapp2.2\HMS.DATALAYER.dll
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\obj\Debug\netcoreapp2.2\HMS.DATALAYER.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\obj\Debug\netcoreapp2.2\HMS.DATALAYER.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\obj\Debug\netcoreapp2.2\HMS.DATALAYER.AssemblyInfo.cs
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\bin\Debug\netcoreapp2.2\HMS.DATALAYER.runtimeconfig.json
+C:\Users\HP\source\repos\HMS\HMS.DATALAYER\bin\Debug\netcoreapp2.2\HMS.DATALAYER.runtimeconfig.dev.json
