@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HMS.DATALAYER.Models
 {
-    public partial class Account
+    public partial class Account :Entity
     {
 
         public int AccountID { get; set; }
@@ -32,8 +32,6 @@ namespace HMS.DATALAYER.Models
         public string RegNumber { get; set; }
         public string CreatedBy { get; set; }
         public string Remark { get; set; }
-        public DateTime Created { get; set; }
-        public DateTime? Modified { get; set; }
 
         public AccountType AccountType { get; set; }
     }

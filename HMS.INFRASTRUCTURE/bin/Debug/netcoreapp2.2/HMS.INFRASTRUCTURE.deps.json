@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HMS.INFRASTRUCTURE/1.0.0": {
+        "dependencies": {
+          "Hangfire.AspNetCore": "1.7.10",
+          "Hangfire.Core": "1.7.10",
+          "Hangfire.SqlServer": "1.7.10"
+        },
+        "runtime": {
+          "HMS.INFRASTRUCTURE.dll": {}
+        }
+      },
+      "Hangfire.AspNetCore/1.7.10": {
+        "dependencies": {
+          "Hangfire.Core": "1.7.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Hangfire.AspNetCore.dll": {
+            "assemblyVersion": "1.7.10.0",
+            "fileVersion": "1.7.10.0"
+          }
+        }
+      },
+      "Hangfire.Core/1.7.10": {
+        "runtime": {
+          "lib/netstandard2.0/Hangfire.Core.dll": {
+            "assemblyVersion": "1.7.10.0",
+            "fileVersion": "1.7.10.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/es/Hangfire.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.0/fa/Hangfire.Core.resources.dll": {
+            "locale": "fa"
+          },
+          "lib/netstandard2.0/nl/Hangfire.Core.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/netstandard2.0/pt-BR/Hangfire.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.0/pt-PT/Hangfire.Core.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "lib/netstandard2.0/pt/Hangfire.Core.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/netstandard2.0/zh-TW/Hangfire.Core.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/netstandard2.0/zh/Hangfire.Core.resources.dll": {
+            "locale": "zh"
+          }
+        }
+      },
+      "Hangfire.SqlServer/1.7.10": {
+        "dependencies": {
+          "Hangfire.Core": "1.7.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Hangfire.SqlServer.dll": {
+            "assemblyVersion": "1.7.10.0",
+            "fileVersion": "1.7.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HMS.INFRASTRUCTURE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hangfire.AspNetCore/1.7.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vj1njIofJIPOZgCjoCE87JgurEWj+5DGSLi1jMgLBVfEvU1VvRr7lHMfw3gxOAA/89M/ESIjj3SghmVY4Kh78g==",
+      "path": "hangfire.aspnetcore/1.7.10",
+      "hashPath": "hangfire.aspnetcore.1.7.10.nupkg.sha512"
+    },
+    "Hangfire.Core/1.7.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iyRQRW1H9U0WvxQjIjiDQRdmjh4CnCWbVPGpmx97CuNaT/7e2Y+5TYpQncG7ckJQbhnD132l3/+d7C+HRDxV+A==",
+      "path": "hangfire.core/1.7.10",
+      "hashPath": "hangfire.core.1.7.10.nupkg.sha512"
+    },
+    "Hangfire.SqlServer/1.7.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qb5zNJuT9u3mvsTLrU7Jn64kp6G6C6ZASOuC4oQ0Z4XZxQeIJeIKk2KwKjUCoTc2VttHh0cNiM1vjJP9I9adVA==",
+      "path": "hangfire.sqlserver/1.7.10",
+      "hashPath": "hangfire.sqlserver.1.7.10.nupkg.sha512"
+    }
+  }
+}

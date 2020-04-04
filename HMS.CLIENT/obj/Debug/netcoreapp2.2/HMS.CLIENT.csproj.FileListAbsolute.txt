@@ -10,9 +10,9 @@ C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\ClientApp\tsconf
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\ClientApp\tslint.json
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\HMS.CLIENT.deps.json
-C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\HMS.CLIENT.runtimeconfig.json
-C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\HMS.CLIENT.runtimeconfig.dev.json
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\HMS.CLIENT.dll
-C:\Users\HP\source\repos\HMS\HMS.CLIENT\obj\Debug\netcoreapp2.2\HMS.CLIENT.csprojAssemblyReference.cache
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\obj\Debug\netcoreapp2.2\HMS.CLIENT.AssemblyInfoInputs.cache
 C:\Users\HP\source\repos\HMS\HMS.CLIENT\obj\Debug\netcoreapp2.2\HMS.CLIENT.AssemblyInfo.cs
+C:\Users\HP\source\repos\HMS\HMS.CLIENT\bin\Debug\netcoreapp2.2\HMS.CLIENT.pdb
+C:\Users\HP\source\repos\HMS\HMS.CLIENT\obj\Debug\netcoreapp2.2\HMS.CLIENT.dll
+C:\Users\HP\source\repos\HMS\HMS.CLIENT\obj\Debug\netcoreapp2.2\HMS.CLIENT.pdb

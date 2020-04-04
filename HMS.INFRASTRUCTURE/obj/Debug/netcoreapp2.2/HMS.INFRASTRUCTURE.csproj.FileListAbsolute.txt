@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\bin\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.deps.json
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\bin\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.runtimeconfig.json
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\bin\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\bin\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.dll
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\bin\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.pdb
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\obj\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\obj\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\obj\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\obj\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.dll
+C:\Users\HP\source\repos\HMS\HMS.INFRASTRUCTURE\obj\Debug\netcoreapp2.2\HMS.INFRASTRUCTURE.pdb

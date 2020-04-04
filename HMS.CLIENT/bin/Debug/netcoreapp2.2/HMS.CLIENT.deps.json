@@ -16,7 +16,7 @@
     "warningsAsErrors": false,
     "optimize": false,
     "keyFile": "",
-    "emitEntryPoint": true,
+    "emitEntryPoint": false,
     "xmlDoc": false,
     "debugType": "portable"
   },
@@ -24,7 +24,8 @@
     ".NETCoreApp,Version=v2.2": {
       "HMS.CLIENT/1.0.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "Microsoft.TypeScript.MSBuild": "3.8.3"
         },
         "runtime": {
           "HMS.CLIENT.dll": {}
@@ -33,6 +34,7 @@
           "HMS.CLIENT.dll": {}
         }
       },
+      "Microsoft.TypeScript.MSBuild/3.8.3": {},
       "Microsoft.NETCore.App/2.2.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.2.0",
@@ -221,6 +223,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.TypeScript.MSBuild/3.8.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ul+v4SKJFqnO75XSn+VKsxfPRMZCrEoOiGY1FY7ZOinGLMKzTsqexpz+Nclah73P4CK2ngISieGJQnd2TyF/Hw==",
+      "path": "microsoft.typescript.msbuild/3.8.3",
+      "hashPath": "microsoft.typescript.msbuild.3.8.3.nupkg.sha512"
     },
     "Microsoft.NETCore.App/2.2.0": {
       "type": "package",
