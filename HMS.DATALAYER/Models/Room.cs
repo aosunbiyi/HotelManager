@@ -9,6 +9,9 @@ namespace HMS.DATALAYER.Models
         public Room()
         {
             RoomImages = new HashSet<RoomImage>();
+            RoomAmenities = new HashSet<RoomAmenity>();
+            RoomWeekDays = new HashSet<RoomWeekDay>();
+            ReserveRooms = new HashSet<ReserveRoom>();
         }
         public int RoomID { get; set; }
         public int RoomTypeID { get; set; }
@@ -27,5 +30,9 @@ namespace HMS.DATALAYER.Models
         public RoomType RoomType { get; set; }
 
         public ICollection<RoomImage>  RoomImages { get; set; }
+        public ICollection<RoomAmenity>  RoomAmenities { get; set; }
+
+        public ICollection<RoomWeekDay>  RoomWeekDays { get; set; }
+        public ICollection<ReserveRoom> ReserveRooms { get; set; }
     }
 }
