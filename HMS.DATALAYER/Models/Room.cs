@@ -12,6 +12,7 @@ namespace HMS.DATALAYER.Models
             RoomAmenities = new HashSet<RoomAmenity>();
             RoomWeekDays = new HashSet<RoomWeekDay>();
             ReserveRooms = new HashSet<ReserveRoom>();
+            LaundryGuestTransactions = new HashSet<LaundryGuestTransaction>();
         }
         public int RoomID { get; set; }
         public int RoomTypeID { get; set; }
@@ -34,5 +35,7 @@ namespace HMS.DATALAYER.Models
 
         public ICollection<RoomWeekDay>  RoomWeekDays { get; set; }
         public ICollection<ReserveRoom> ReserveRooms { get; set; }
+
+        public ICollection<LaundryGuestTransaction> LaundryGuestTransactions { get; set; }
     }
 }
