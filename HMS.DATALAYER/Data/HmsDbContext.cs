@@ -78,7 +78,7 @@ namespace HMS.DATALAYER.Data
             });
 
             builder.Entity<Account>(entity => { 
-            
+                 entity.Property(e=>e.AccountNumber).IsRequired().HasMaxLength(20).HasComputedColumnSql
             });
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\HMS.API.deps.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\HMS.API.runtimeconfig.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\HMS.API.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\HMS.API.dll
+C:\Users\HP\source\repos\HMS\HMS.API\bin\Debug\netcoreapp2.2\HMS.API.pdb
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.AssemblyInfo.cs
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.dll
+C:\Users\HP\source\repos\HMS\HMS.API\obj\Debug\netcoreapp2.2\HMS.API.pdb
